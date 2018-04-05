@@ -1,0 +1,6 @@
+[package]
+name = "learn_rust"
+version = "0.1.0"
+authors = ["Qingxiang Jia <ybjqx3340@gmail.com>"]
+
+[dependencies]
